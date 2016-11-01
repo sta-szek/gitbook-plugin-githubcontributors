@@ -1,0 +1,45 @@
+{
+  "name": "gitbook-plugin-githubcontributors",
+  "version": "0.0.1",
+  "description": "GitHub contributors for gitbook plugin",
+  "engines": {
+    "gitbook": ">=3.0.0-pre.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sta-szek/gitbook-plugin-github-contributors.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "gitbook-plugin",
+    "github",
+    "contributors",
+    "stats",
+    "statistics"
+  ],
+  "author": "sta-szek <yoyo@wp.eu> (https://github.com/sta-szek)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sta-szek/gitbook-plugin-github-contributors/issues"
+  },
+  "homepage": "https://github.com/sta-szek/gitbook-plugin-github-contributors#readme",
+  "gitbook": {
+   "properties": {
+     "githubOwner": {
+       "type": "string",
+       "description": "GitHub owner name, e.g. sta-szek",
+       "required": true
+     },
+     "githubRepository": {
+       "type": "string",
+       "description": "GitHub repository name, e.g. pojo-tester",
+       "required": true
+     }
+   }
+  }
+}
