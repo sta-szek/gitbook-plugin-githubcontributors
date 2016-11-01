@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-githubcontributors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GitHub contributors for gitbook plugin",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
@@ -29,17 +29,17 @@
   },
   "homepage": "https://github.com/sta-szek/gitbook-plugin-github-contributors#readme",
   "gitbook": {
-   "properties": {
-     "githubOwner": {
-       "type": "string",
-       "description": "GitHub owner name, e.g. sta-szek",
-       "required": true
-     },
-     "githubRepository": {
-       "type": "string",
-       "description": "GitHub repository name, e.g. pojo-tester",
-       "required": true
-     }
-   }
+    "properties": {
+      "githubOwner": {
+        "type": "string",
+        "description": "GitHub owner name, e.g. sta-szek",
+        "required": true
+      },
+      "githubRepository": {
+        "type": "string",
+        "description": "GitHub repository name, e.g. pojo-tester",
+        "required": true
+      }
+    }
   }
 }
