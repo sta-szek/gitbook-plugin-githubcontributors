@@ -26,3 +26,5 @@ To do this use gitbook block:
 
 # Sample result
 ![](examples/example.png)
+
+# Feel free to contribute!
