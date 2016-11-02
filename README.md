@@ -1,5 +1,11 @@
 This plugin insterts contributions from GitHub service via GitHub API.
 
+# Features
+
+* adds contributors from GitHub via GitHub API (0.0.1)
+* link to contributors page (0.1.0)
+* background changes when theme changes (0.1.0)
+
 # Usage
 
 Add plugin and it's configuration to your `book.json` file:
