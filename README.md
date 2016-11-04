@@ -21,8 +21,8 @@ Add plugin and it's configuration to your `book.json` file:
 ],
 "pluginsConfig": {
   "githubcontributors": {
-    "githubOwner": "username",      // GitHub username e.g. sta-szek
-    "githubRepository": "repo-name" // GithHub repo name e.g. pojo-tester
+    "githubOwner": "username",      // GitHub user name e.g. sta-szek
+    "githubRepository": "repo-name" // GitHub repo name e.g. pojo-tester
   }
 }
 ```
