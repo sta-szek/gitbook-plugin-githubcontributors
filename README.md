@@ -10,6 +10,7 @@ If you have any questions, we can [![Gitter](https://badges.gitter.im/pojo-teste
 * adds contributors from GitHub via GitHub API (0.0.1)
 * link to contributors page (0.1.0)
 * background changes when theme changes (0.1.0)
+* hardcoded link and sorting bugfixes 
 
 # Usage
 
