@@ -39,4 +39,4 @@ To do this use gitbook block:
 ![](examples/example.png)
 
 # Feel free to contribute!
-If you have any ideas just rise and issue or send PR!
+If you have any ideas just rise and issue or send PR! :beers:
