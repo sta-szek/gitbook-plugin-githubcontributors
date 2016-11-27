@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-githubcontributors",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "GitHub contributors for gitbook plugin",
   "engines": {
     "gitbook": ">=3.0.0-pre.0"
