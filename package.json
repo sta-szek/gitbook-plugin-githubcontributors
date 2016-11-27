@@ -39,6 +39,11 @@
         "type": "string",
         "description": "GitHub repository name, e.g. pojo-tester",
         "required": true
+      },
+      "contributorWidth": {
+        "type": "string",
+        "description": "Width for contributor div e.g. 300px",
+        "default": "300px"
       }
     }
   }
