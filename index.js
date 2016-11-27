@@ -7,7 +7,7 @@ module.exports = {
 
     blocks: {
         GitHubContributors: function (block) {
-            return "</div></div><div id='GitHubContributors' class='contributors'></div>";
+            return "<div id='GitHubContributors'></div>";
         }
     }
 
