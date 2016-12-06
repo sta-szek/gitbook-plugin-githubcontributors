@@ -26,6 +26,7 @@ Add plugin and it's configuration to your `book.json` file:
   "githubcontributors": {
     "githubOwner": "username",      // GitHub user name e.g. sta-szek
     "githubRepository": "repo-name" // GitHub repo name e.g. pojo-tester
+    "contributorWidth": "300px"     // Width of contributor div. Default is 300px. Margin betweend divs is 10px.
   }
 }
 ```
